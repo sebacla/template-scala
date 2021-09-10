@@ -2,7 +2,6 @@ image:
   file: .gitpod.Dockerfile
 tasks:
   - init: |
-      cd poc-gitpod-play
       sbt compile
     command: |
       sbt run
