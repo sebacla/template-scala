@@ -6,7 +6,7 @@ This is a [Scala](https://www.scala-lang.org/) template configured for ephemeral
 
 Click the button below to start a new development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-scala)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/sebacla/template-scala)
 
 ## Get Started With Your Own Project
 
